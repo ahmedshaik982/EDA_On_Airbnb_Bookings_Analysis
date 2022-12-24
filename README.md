@@ -45,9 +45,7 @@ From the Exploratory data analysis, we can conclude that
 
 * Most people are prefering Manhattan and Brooklyn, and the least is Staten Island
 
-* The areas with most number of listings are ['Williamsburg' 'Bedford-Stuyvesant' 'Harlem' 'Bushwick' 'Upper West Side'
-
-"Hell's Kitchen" 'East Village' 'Upper East Side' 'Crown Heights' 'Midtown']
+* The areas with most number of listings are ['Williamsburg' 'Bedford-Stuyvesant' 'Harlem' 'Bushwick' 'Upper West Side', "Hell's Kitchen" 'East Village' 'Upper East Side' 'Crown Heights' 'Midtown']
 
 * Most people are prefering Entire home/apt followed by Private room and least is Shared room
 
