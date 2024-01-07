@@ -83,4 +83,4 @@ From the Exploratory data analysis, we can conclude that
 
 * The shared room category has availability of rooms with more number of days
 
-* Staten Island has availability of rooms with more number of days
+* Staten Island has availablity of rooms with more number of days
